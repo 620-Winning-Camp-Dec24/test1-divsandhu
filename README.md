@@ -28,23 +28,23 @@ Ensure you have the following installed:
 
 ### Steps
 1. **Clone the Repository:**
-   ```sh
+   ```bash
    git clone https://github.com/your-repo/blockchain-disaster-mgmt.git
    cd blockchain-disaster-mgmt
    ```
 
 2. **Install Dependencies:**
-   ```sh
+   ```bash
    npm install
    ```
 
 3. **Start the Development Server:**
-   ```sh
+   ```bash
    npm run dev
    ```
 
 4. **Deploy Smart Contracts:**
-   ```sh
+   ```bash
    npx hardhat run scripts/deploy.js --network rinkeby
    ```
 
